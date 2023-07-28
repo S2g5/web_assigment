@@ -1,7 +1,6 @@
 .logo
 {
     /* background-color: blueviolet; */
-    background-image:;
     background-repeat: no-repeat;
     width: 100px;
 }
@@ -10,10 +9,10 @@ a{
 }
 body
 {
-background-color: powderblue;
+background-color:paleturquoise;
 font-weight: lighter;
 }
-p
+.about
 {
     margin-left: 45px;
     font-size: 48px;
@@ -57,4 +56,11 @@ h1{
     color: white;
     background-color: #000000;
 
+}
+.bnf{
+    color: white;
+    background-color: black;
+}
+.tt{
+    color:skyblue;
 }
